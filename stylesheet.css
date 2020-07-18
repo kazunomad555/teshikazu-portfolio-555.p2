@@ -1,0 +1,106 @@
+body {
+    text-align: center;
+    
+}
+
+
+
+.header-logo img {
+    width: 50%;
+    margin-top: 30px; 
+}
+
+.main {
+    padding: 40px 30px;
+}
+
+a {
+    color: #808080;
+    font-size: 17px;
+    text-decoration: none;
+    padding-bottom: 40px;
+    margin: 40px;
+}
+
+a:hover {
+    color: #CD853F;
+    border-bottom: 3px solid#CD853F;
+    padding-bottom: 7px;
+}
+
+.site {
+    margin-bottom: 50px;
+}
+
+h3 {
+    background-color: #CD853F;
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: left;
+}
+
+p {
+    color: #808080;
+    margin-left: 15px;
+    font-size: 16px;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table th, table td {
+    border: solid 1px #808080;
+    padding: 15px ;
+    font-size: 16px;
+    color: #808080;
+}
+
+.text1 {
+    text-align: left;
+    background-color: #EEEEEE;
+}
+
+.text2 {
+    padding: 15px 60px;
+}
+
+table td {
+    text-align: left;
+}
+
+.explain h3 {
+    background-color: white;
+    color: #808080;
+    border: 1px solid #CCCCCC;
+    padding: 12px;
+}
+
+.explain p {
+    line-height: 30px;
+
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.brown {
+    color: #CD853F;
+    font-weight: bold;
+}
+
+.highlight {
+    background: linear-gradient(transparent 0%, #EEEEEE 0%);
+    padding: 5px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 12px;
+}
